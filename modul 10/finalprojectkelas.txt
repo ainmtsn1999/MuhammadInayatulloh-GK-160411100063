@@ -1,0 +1,5 @@
+FLAPPY BIRD
+
+
+- objek bisa (VIEW) diputar menggunakan tombol keyboard huruf a
+- untuk menerbangkan burung gunakan klik pada mouse
